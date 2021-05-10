@@ -12,3 +12,10 @@ Web Programlama
 ### Ana Sayfa
 <p ><img src="image/anasayfa1.png"></p>
 <p ><img src="image/anasayfa2.png"></p>
+
+### Kategori
+<p ><img src="image/kategori.png"></p>
+
+### Yönetici
+<p ><img src="image/yönetici.png"></p>
+<p ><img src="image/kontrolpanel.png"></p>
