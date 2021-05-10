@@ -9,3 +9,4 @@ Web Programlama
 - Konsol ekranında `php artisan key:generate` komutunu çalıştırın.
 - Projeyi çalıştırmak için `php artisan serve` komutunu çalıştırın.
 
+<p ><img src="/image/anasayfa1"></p>
